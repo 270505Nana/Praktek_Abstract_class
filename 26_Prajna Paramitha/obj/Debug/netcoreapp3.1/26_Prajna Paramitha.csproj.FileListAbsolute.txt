@@ -1,0 +1,13 @@
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\bin\Debug\netcoreapp3.1\26_Prajna Paramitha.exe
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\bin\Debug\netcoreapp3.1\26_Prajna Paramitha.deps.json
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\bin\Debug\netcoreapp3.1\26_Prajna Paramitha.runtimeconfig.json
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\bin\Debug\netcoreapp3.1\26_Prajna Paramitha.runtimeconfig.dev.json
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\bin\Debug\netcoreapp3.1\26_Prajna Paramitha.dll
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\bin\Debug\netcoreapp3.1\26_Prajna Paramitha.pdb
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\obj\Debug\netcoreapp3.1\26_Prajna Paramitha.csproj.AssemblyReference.cache
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\obj\Debug\netcoreapp3.1\26_Prajna Paramitha.AssemblyInfoInputs.cache
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\obj\Debug\netcoreapp3.1\26_Prajna Paramitha.AssemblyInfo.cs
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\obj\Debug\netcoreapp3.1\26_Prajna Paramitha.csproj.CoreCompileInputs.cache
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\obj\Debug\netcoreapp3.1\26_Prajna Paramitha.dll
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\obj\Debug\netcoreapp3.1\26_Prajna Paramitha.pdb
+D:\01.SCHOOL\MAPEL 11\kk3-b\Abstrack class\26_Prajna Paramitha\26_Prajna Paramitha\obj\Debug\netcoreapp3.1\26_Prajna Paramitha.genruntimeconfig.cache
